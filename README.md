@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+This project is built using **Refine**, **Next.js**, and **Tailwind CSS**. It leverages the power of Refine's powerful data-handling capabilities, Next.js's server-side rendering and routing, and Tailwind's utility-first CSS framework to create a dynamic and responsive web application.
 
 ## Getting Started
 
